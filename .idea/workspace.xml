@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc5ba2f4-d862-42ac-b2f8-e012e3e5522c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSI-Extraction/Extract_CSI.m" beforeDir="false" afterPath="$PROJECT_DIR$/CSI-Extraction/Extract_CSI.m" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSI-Samples/A_80Mhz_1x1_M2_sub2_short.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSI-Samples/A_80Mhz_1x1_M2_sub2_short.pcap" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -81,7 +76,7 @@
       <option name="presentableId" value="Default" />
       <updated>1772013592576</updated>
       <workItem from="1772013594214" duration="944000" />
-      <workItem from="1772017336419" duration="1306000" />
+      <workItem from="1772017336419" duration="2632000" />
     </task>
     <servers />
   </component>
