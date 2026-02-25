@@ -6,7 +6,7 @@
 clc; clear; close all;
 
 %% -------- Read argument from terminal --------
-FILE = '../CSI-Samples/D_80Mhz_1x1_M1_sub2_short.pcap';
+FILE = '../CSI-Samples/D_1_M1_P2_short.pcap';
 
 if ~isfile(FILE)
     error('PCAP file not found: %s', FILE);
@@ -75,6 +75,12 @@ end
 %% -------- Trim --------
 csi_buff = csi_buff(1:write_idx,:);
 csi = csi_buff(:, non_zero);
+
+%% -------- Plot --------
+% nfft should match the number of subcarriers in csi (after non_zero selection)
+% nfft = size(csi, 2);
+% normalize = true;
+% plotcsi(csi, nfft, normalize);
 
 %% -------- Save with same name --------
 [folder, base, ~] = fileparts(FILE);
