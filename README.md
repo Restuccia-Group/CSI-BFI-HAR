@@ -71,8 +71,8 @@ CSI-BFI-HAR-Dataset/
 | HAR-8 | Kitchen (Orientation 1-3) | M3 | NLoS | 3 | P1-P3 |
 | HAR-9 | Classroom (Orientation 1-3) | M1, M2 | LoS | 3 | P1-P3 |
 | HAR-10 | Classroom (Orientation 1-3) | M3 | NLoS | 3 | P1-P3 |
-| HAR-11 | Living room (Orientation 1-3) | M1, M2 | LoS | 3 | P1-P3 |
-| HAR-12 | Living room (Orientation 1-3) | M3 | NLoS | 3 | P1-P3 |
+| HAR-11 | Office (Orientation 1-3) | M1, M2 | LoS | 3 | P1-P3 |
+| HAR-12 | Office (Orientation 1-3) | M3 | NLoS | 3 | P1-P3 |
 
 ## Trace Naming Convention
 
