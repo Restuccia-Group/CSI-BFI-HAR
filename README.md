@@ -2,7 +2,8 @@
 
 This repository documents the structure and usage of the CSI-BFI-HAR dataset.
 
-Dataset publication target:
+Please download the dataset either from huggingface or IEEE dataport:
+- https://huggingface.co/datasets/foysalhaque/CSI-BFI-HAR-Dataset
 - https://ieee-dataport.org/documents/csi-bfi-har-wi-fi-datasets-human-activity-recognition
 
 ## Dataset Structure
