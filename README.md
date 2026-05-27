@@ -90,7 +90,7 @@ Where:
 
 Device IDs:
 - CSI devices: `M1`, `M2`, `M3`
-- BFI devices: `S1`, `S2`, `S3`
+- BFI devices: `M1`, `M2`, `M3`
 
 Subject IDs:
 - `P1` to `P6` for `Dataset-1`
@@ -120,7 +120,7 @@ Activity code map:
 
 Examples:
 - `A_3_M1_P2` -> jogging, day 3, CSI device M1, subject P2
-- `N_6_S2_P1` -> drinking, day 6, BFI device S2, subject P1
+- `N_6_M2_P1` -> drinking, day 6, BFI device M2, subject P1
 
 ## CSI Extraction
 
